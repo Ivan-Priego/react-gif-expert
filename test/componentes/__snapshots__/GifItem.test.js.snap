@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Purebas en GifItem.js Debe tomar un snapshot del componente 1`] = `
+<div>
+  <li
+    class="card"
+  >
+    <img
+      alt="Titulo test"
+      src="http://urltest.mx/img.jpg"
+    />
+    <p>
+      Titulo test
+    </p>
+  </li>
+</div>
+`;
